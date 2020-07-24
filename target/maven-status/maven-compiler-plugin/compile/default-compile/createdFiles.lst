@@ -1,0 +1,7 @@
+MainClass.class
+org\example\utils\DictionaryUtils.class
+org\example\service\DictionaryImpl.class
+org\example\service\IDictionary.class
+org\example\exception\NotAValidWordException.class
+org\example\model\DictWord.class
+org\example\exception\NoSuchWordExistsException.class
